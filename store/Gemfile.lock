@@ -107,7 +107,7 @@ DEPENDENCIES
   coffee-rails
   jquery-rails
   mustache
-  rails
+  rails (>= 3.2)
   sass-rails
   sqlite3
   uglifier
